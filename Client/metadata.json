@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Voice Assistant",
+  "description": "An application that allows users to have a real-time voice conversation with the Gemini 2.5 Native Audio (Live API) and displays the conversation transcript.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
